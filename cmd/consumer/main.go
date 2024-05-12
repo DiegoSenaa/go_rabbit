@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/DiegoSenaa/eventos-go/libs/pkg/rabbitmq"
+	"github.com/DiegoSenaa/go_rabbit/pkg/rabbitmq"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 
