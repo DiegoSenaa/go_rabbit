@@ -1,4 +1,4 @@
-module github.com/DiegoSenaa/eventos-go/libs
+module github.com/DiegoSenaa/go_rabbit
 
 go 1.21.6
 
